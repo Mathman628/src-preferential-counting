@@ -1,0 +1,69 @@
+Determining the winner of Round 1:
+Round 1
+Tejus Menon: [7, 14, 19, 33, 57, 53]
+King Shi: [27, 27, 31, 36, 23, 39]
+Nathan Movva: [52, 30, 37, 22, 24, 18]
+Fahim Hoque: [24, 48, 39, 30, 24, 18]
+Pranav Dhir: [17, 39, 35, 39, 36, 17]
+Alex Wu: [56, 25, 22, 23, 19, 38]
+Tejus Menon is eliminated
+
+Round 2
+King Shi: [29, 31, 36, 33, 54]
+Nathan Movva: [52, 36, 38, 30, 27]
+Fahim Hoque: [24, 52, 44, 41, 22]
+Pranav Dhir: [22, 36, 42, 49, 34]
+Alex Wu: [56, 28, 23, 30, 46]
+Pranav Dhir is eliminated
+
+Round 3
+King Shi: [37, 42, 36, 68]
+Nathan Movva: [61, 41, 42, 39]
+Fahim Hoque: [26, 69, 65, 23]
+Alex Wu: [59, 31, 40, 53]
+Fahim Hoque is eliminated
+
+Round 4
+King Shi: [44, 66, 73]
+Nathan Movva: [71, 68, 44]
+Alex Wu: [68, 49, 66]
+King Shi is eliminated
+
+Round 5
+Nathan Movva: [100, 83]
+Alex Wu: [83, 100]
+Alex Wu is eliminated
+
+First Winner is Nathan Movva
+
+
+
+
+Determining the winner of Round 2:
+Round 2
+Tejus Menon: [8, 19, 37, 62, 57]
+Fahim Hoque: [42, 54, 33, 31, 23]
+King Shi: [34, 32, 48, 30, 39]
+Pranav Dhir: [32, 48, 41, 38, 24]
+Alex Wu: [67, 30, 24, 22, 40]
+Tejus Menon is eliminated
+
+Round 3
+Fahim Hoque: [43, 58, 50, 32]
+King Shi: [36, 42, 49, 56]
+Pranav Dhir: [37, 49, 52, 45]
+Alex Wu: [67, 34, 32, 50]
+King Shi is eliminated
+
+Round 4
+Fahim Hoque: [53, 83, 47]
+Pranav Dhir: [53, 55, 75]
+Alex Wu: [77, 45, 61]
+Pranav Dhir is eliminated
+
+Round 5
+Fahim Hoque: [89, 94]
+Alex Wu: [94, 89]
+Fahim Hoque is eliminated
+
+Second Winner is Alex Wu
